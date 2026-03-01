@@ -1,9 +1,9 @@
+streamlit==1.32.2
+altair==4.2.2
 sentence-transformers
 scikit-learn
 pandas
 numpy
-streamlit
-sqlalchemy
-psycopg2-binary
 python-docx
 pypdf
+torch
